@@ -130,7 +130,7 @@ class FragmentKata : Fragment() {
     fun dipilihE(){
         val listKata = arrayListOf(
             MyAbjad("Ebay"),
-            MyAbjad("Everyday"),
+            MyAbjad("Eunha"),
             MyAbjad("Everytime"),
             MyAbjad("EXO"),
         )
